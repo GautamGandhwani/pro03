@@ -12,11 +12,7 @@
 	padding-top: 150px;
 }
 
-body {
-	background-image: url('img/circule.jpg');
-	background-size: cover;
-	background-repeat: no-repeat;
-}
+
 </style>
 <body class="img-fluids">
 	<div class="p1">
